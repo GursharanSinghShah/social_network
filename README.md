@@ -1,6 +1,6 @@
 # social_network
 
-## How To Setup On Linux
+## How To Setup On Linux/Mac
 1. Clone This Project - git clone https://github.com/GursharanSinghShah/social_network.git
 2. Go To Project Directory - cd social_network_project
 3. Create a Virtual Environment - python3 -m venv venv
